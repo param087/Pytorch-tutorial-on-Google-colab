@@ -19,6 +19,7 @@ best way to run the notebook is to copy notebook in your google drive
  * [Data Loading and Processing Tutorial](https://drive.google.com/file/d/13BxH3nkqwlU_ZCplU2Czn8cgP7nnR0xR/view?usp=sharing)
  * Learning PyTorch with Examples
     * Tensors
-        * [Warm-up: numpy]()
+        * [Warm-up: numpy](https://drive.google.com/file/d/1uT6cq0JQZBhw4M0EJZUoikekES2ltNGw/view?usp=sharing)
+        * [PyTorch: Tensors](https://drive.google.com/file/d/16GkGDyhPoDh86WbpllIGSzVwcJYlJ4VJ/view?usp=sharing)
     * Autograd
     * nn module
