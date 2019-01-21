@@ -16,4 +16,4 @@ best way to run the notebook is to copy notebook in your google drive
     * [Neural Networks](https://drive.google.com/file/d/1kYBwZfxC-L7dvj51NcNdS1VSQPT0IjqG/view?usp=sharing)
     * [Training a Classifier](https://drive.google.com/file/d/1v-rWBOFdqfBRaNcx27uC9q82K9XrXjHx/view?usp=sharing)
     * [Optional: Data Parallelism](https://drive.google.com/file/d/1e6FRN2YKSJlefWrZKPp4Hy-n5l9ckhC-/view?usp=sharing)
- * [Data Loading and Processing Tutorial]()
+ * [Data Loading and Processing Tutorial](https://drive.google.com/file/d/13BxH3nkqwlU_ZCplU2Czn8cgP7nnR0xR/view?usp=sharing)
