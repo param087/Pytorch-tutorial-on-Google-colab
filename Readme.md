@@ -1,5 +1,11 @@
 # Pytorch tutorial on google colab nootebook 
 ### [reference - https://pytorch.org/tutorials/](https://pytorch.org/tutorials/)
+
+***
+## Note - If the below links shows the random text please one the file in colab
+
+## Requirements - Chrome Browser and Google drive login
+                  
  
 ***
 # Getting Started
