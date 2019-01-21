@@ -3,7 +3,7 @@
 
 ***
 ## Note - If the below links shows the random text please one the file in colab
-[img](https://github.com/param087/Pytorch-tutorial-on-Google-colab/blob/master/Images/Screenshot%20(74).png)
+![img](https://github.com/param087/Pytorch-tutorial-on-Google-colab/blob/master/Images/Screenshot%20(74).png)
 
 ## Requirements - Chrome Browser and Google drive login
                   
