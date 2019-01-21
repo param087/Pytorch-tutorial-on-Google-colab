@@ -22,4 +22,11 @@ best way to run the notebook is to copy notebook in your google drive
         * [Warm-up: numpy](https://drive.google.com/file/d/1uT6cq0JQZBhw4M0EJZUoikekES2ltNGw/view?usp=sharing)
         * [PyTorch: Tensors](https://drive.google.com/file/d/16GkGDyhPoDh86WbpllIGSzVwcJYlJ4VJ/view?usp=sharing)
     * Autograd
+        * [PyTorch: Tensors and autograd](https://drive.google.com/file/d/1pMlThbtxTloO2_kjVHiKSLDIWzTzwy-w/view?usp=sharing)
+        * [PyTorch: Defining New autograd Functions](https://drive.google.com/file/d/1DYN2MTlYO4pH2nEPYSvNSZ5UeLzlBC5o/view?usp=sharing)
+        * [ TensorFlow: Static Graphs](https://drive.google.com/file/d/1_lmbHaVqjsJLGK--qdB-8SgnBYCb_eZO/view?usp=sharing)
     * nn module
+        * [PyTorch: nn](https://colab.research.google.com/drive/1rapdN2TWzFlnSIAreupyp9EQyaPSLeCI)
+        * [PyTorch: optim](https://colab.research.google.com/drive/1YjUydyfYOYdjet-Mbp-iXF7d4K5_AjUt)
+        * [PyTorch: Custom nn Modules](https://colab.research.google.com/drive/14O9Yu1Vv7I8zywk3E1si-Zd6JPUtr6bk)
+        * [PyTorch: Control Flow + Weight Sharing](https://colab.research.google.com/drive/1aCLvTV2miF4U5hJljNPHUzcijBtzd6BL)
