@@ -19,12 +19,12 @@ best way to run the notebook is to copy notebook in your google drive
  * [Data Loading and Processing Tutorial](https://colab.research.google.com/drive/13BxH3nkqwlU_ZCplU2Czn8cgP7nnR0xR)
  * Learning PyTorch with Examples
     * Tensors
-        * [Warm-up: numpy]()
-        * [PyTorch: Tensors]()
+        * [Warm-up: numpy](https://colab.research.google.com/drive/1uT6cq0JQZBhw4M0EJZUoikekES2ltNGw)
+        * [PyTorch: Tensors](https://colab.research.google.com/drive/16GkGDyhPoDh86WbpllIGSzVwcJYlJ4VJ)
     * Autograd
-        * [PyTorch: Tensors and autograd]()
-        * [PyTorch: Defining New autograd Functions]()
-        * [ TensorFlow: Static Graphs]()
+        * [PyTorch: Tensors and autograd](https://colab.research.google.com/drive/1pMlThbtxTloO2_kjVHiKSLDIWzTzwy-w)
+        * [PyTorch: Defining New autograd Functions](https://colab.research.google.com/drive/1DYN2MTlYO4pH2nEPYSvNSZ5UeLzlBC5o)
+        * [ TensorFlow: Static Graphs](https://colab.research.google.com/drive/1_lmbHaVqjsJLGK--qdB-8SgnBYCb_eZO)
     * nn module
         * [PyTorch: nn](https://colab.research.google.com/drive/1rapdN2TWzFlnSIAreupyp9EQyaPSLeCI)
         * [PyTorch: optim](https://colab.research.google.com/drive/1YjUydyfYOYdjet-Mbp-iXF7d4K5_AjUt)
