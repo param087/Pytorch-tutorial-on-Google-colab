@@ -30,3 +30,4 @@ best way to run the notebook is to copy notebook in your google drive
         * [PyTorch: optim](https://colab.research.google.com/drive/1YjUydyfYOYdjet-Mbp-iXF7d4K5_AjUt)
         * [PyTorch: Custom nn Modules](https://colab.research.google.com/drive/14O9Yu1Vv7I8zywk3E1si-Zd6JPUtr6bk)
         * [PyTorch: Control Flow + Weight Sharing](https://colab.research.google.com/drive/1aCLvTV2miF4U5hJljNPHUzcijBtzd6BL)
+  * [Transfer Learning Tutorial](https://colab.research.google.com/drive/1RADkS5naNGsBr_SoKL4NrjN5NphVhk_7)
