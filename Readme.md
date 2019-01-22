@@ -31,3 +31,6 @@ best way to run the notebook is to copy notebook in your google drive
         * [PyTorch: Custom nn Modules](https://colab.research.google.com/drive/14O9Yu1Vv7I8zywk3E1si-Zd6JPUtr6bk)
         * [PyTorch: Control Flow + Weight Sharing](https://colab.research.google.com/drive/1aCLvTV2miF4U5hJljNPHUzcijBtzd6BL)
   * [Transfer Learning Tutorial](https://colab.research.google.com/drive/1RADkS5naNGsBr_SoKL4NrjN5NphVhk_7)
+  * [Deploying a Seq2Seq Model with the Hybrid Frontend](https://colab.research.google.com/drive/1lq9MMIpJwQP6DH7QCdvfuGJkqdUFravU)
+  * [Saving and Loading Models](https://colab.research.google.com/drive/1F5Vk9A7q-KyT4JR8vj_ly7ySqlB-CRcq)
+  * [What is torch.nn really?](https://colab.research.google.com/drive/1Z0dCglegggLunaqxdafiTX3nbmPYryDg)
