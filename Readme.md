@@ -44,4 +44,21 @@ best way to run the notebook is to copy notebook in your google drive
   * [Transfering a Model from PyTorch to Caffe2 and Mobile using ONNX](https://colab.research.google.com/drive/1NELDQYwXwr4ZOhl77CoHK2Gv7X2coaJY)
 ***
 # Text
-  * [Chatbot Tutorial]()
+  * [Chatbot Tutorial](https://colab.research.google.com/drive/1Qs6m-gZ7It53hmMbCNGST962cycQWRvW)
+  * [Classifying Names with a Character-Level RNN](https://colab.research.google.com/drive/1OvOe4dsd7VFymz2PE2r1BMHiJtglBeu1)
+  * [Generating Names with a Character-Level RNN](https://colab.research.google.com/drive/165YAVmrWuuM-ESZ2ELUJahkpgH3fyTAF)
+  * Deep Learning for NLP with Pytorch
+    * [Introduction to PyTorch](https://colab.research.google.com/drive/13ZBvOIv5Y9TygB4eYsh1HpE7f8stF2xJ)
+    * [Deep Learning with PyTorch](https://colab.research.google.com/drive/1EWTfj2MsPo1HjBWSLH7K0P-JuoZSkoLh)
+    * [Word Embeddings: Encoding Lexical Semantics](https://colab.research.google.com/drive/1ZsfSsj91SVTsH8JXpPCUvTVkZFzEkCNr)
+    * [Sequence Models and Long-Short Term Memory Networks](https://colab.research.google.com/drive/1Av0fPm6cvr5go8RTVMOV_O5YHBAMxglo)
+    * [Advanced: Making Dynamic Decisions and the Bi-LSTM CRF](https://colab.research.google.com/drive/1IOpo97OD7Af0vQ31U9tmAWNw36tz_YK4)
+  * [Translation with a Sequence to Sequence Network and Attention](https://colab.research.google.com/drive/1ixOr2JarQUfUL5mioVjD9QV3xpj6c36S)
+***
+# Generative
+  * [DCGAN Tutorial]()
+***
+# Reinforcement Learning
+  * [Reinforcement Learning (DQN) Tutorial]()
+    
+    
