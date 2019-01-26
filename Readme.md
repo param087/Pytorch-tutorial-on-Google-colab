@@ -59,6 +59,6 @@ best way to run the notebook is to copy notebook in your google drive
   * [DCGAN Tutorial]()
 ***
 # Reinforcement Learning
-  * [Reinforcement Learning (DQN) Tutorial]()
+  * [Reinforcement Learning (DQN) Tutorial](https://colab.research.google.com/drive/1fQA5LK3LJvWkXAB-mvS6-rLZFbkqa9KE)
     
     
