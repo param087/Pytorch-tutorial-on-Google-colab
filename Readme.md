@@ -1,5 +1,5 @@
-# Pytorch tutorial on google colab nootebook 
-Some notebook contains the installation command for Pytorch but now google colab have pytorch pre-install.
+# PyTorch tutorial on google colab nootebook 
+Some notebook contains the installation command for PyTorch but now google colab have pytorch pre-install.
 ### [reference - https://pytorch.org/tutorials/](https://pytorch.org/tutorials/)
 
 ***
