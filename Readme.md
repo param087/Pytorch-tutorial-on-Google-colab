@@ -41,7 +41,7 @@ best way to run the notebook is to copy notebook in your google drive
   * [Spatial Transformer Networks Tutorial](https://colab.research.google.com/drive/1FvxC9l-M_ZHqmfRnVHxR1siEB7FcJKXS)
   * [Neural Transfer Using PyTorch](https://colab.research.google.com/drive/11CGMdE7F58H0bknm7WNvdQw-5l1tgeZ_)
   * [Adversarial Example Generation](https://colab.research.google.com/drive/1R0rE5MfdeUhB65fr-GzMr7aDbStMuJGL)
-  * [Transfering a Model from PyTorch to Caffe2 and Mobile using ONNX](https://colab.research.google.com/drive/1NELDQYwXwr4ZOhl77CoHK2Gv7X2coaJY)
+  * [Transfering a Model from PyTorch to Caffe2 and Mobile using ONNX](https://colab.research.google.com/drive/1NELDQYwXwr4ZOhl77CoHK2Gv7X2coaJY)(Not fully functional)
 ***
 # Text
   * [Chatbot Tutorial](https://colab.research.google.com/drive/1Qs6m-gZ7It53hmMbCNGST962cycQWRvW)
@@ -56,7 +56,7 @@ best way to run the notebook is to copy notebook in your google drive
   * [Translation with a Sequence to Sequence Network and Attention](https://colab.research.google.com/drive/1ixOr2JarQUfUL5mioVjD9QV3xpj6c36S)
 ***
 # Generative
-  * [DCGAN Tutorial]()
+  * [DCGAN Tutorial](https://colab.research.google.com/drive/1u6SekdLKZMLHXyLsJmvGnwR3CKOv8EWJ)
 ***
 # Reinforcement Learning
   * [Reinforcement Learning (DQN) Tutorial](https://colab.research.google.com/drive/1fQA5LK3LJvWkXAB-mvS6-rLZFbkqa9KE)
