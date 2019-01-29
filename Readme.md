@@ -3,9 +3,6 @@ Some notebook contains the installation command for PyTorch but now google colab
 ### [reference - https://pytorch.org/tutorials/](https://pytorch.org/tutorials/)
 
 ***
-## Note - If the below links shows the random text. Please open the file in colab
-![img](https://github.com/param087/Pytorch-tutorial-on-Google-colab/blob/master/Images/Screenshot%20(74).png)
-best way to run the notebook is to copy notebook in your google drive
 ## Requirements - Chrome Browser and Google drive login
                   
  
@@ -61,5 +58,10 @@ best way to run the notebook is to copy notebook in your google drive
 ***
 # Reinforcement Learning
   * [Reinforcement Learning (DQN) Tutorial](https://colab.research.google.com/drive/1fQA5LK3LJvWkXAB-mvS6-rLZFbkqa9KE)
+***
+
+## Note - If the below links shows the random text. Please open the file in colab
+![img](https://github.com/param087/Pytorch-tutorial-on-Google-colab/blob/master/Images/Screenshot%20(74).png)
+best way to run the notebook is to copy notebook in your google drive
     
     
